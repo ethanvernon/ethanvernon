@@ -5,5 +5,3 @@
 You can connect with me on LinkedIn: https://www.linkedin.com/in/ethanvernon/
 
 This was my portfolio before my first dev job: http://www.fromgaming.com/
-
-Currently I work at Evolve Security as a Full-Stack Web Developer
